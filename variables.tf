@@ -81,10 +81,10 @@ variable "image_version" {
 
 variable "admin_username" {
   description = "administrator user name"
-  default     = "periassx"
+  default     = "admin"
 }
 
 variable "admin_password" {
   description = "administrator password (recommended to disable password auth)"
-    default     = "Chellam07#"
+    default     = "adminVM07#"
 }
